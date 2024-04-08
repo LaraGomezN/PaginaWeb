@@ -1,0 +1,12 @@
+.imagen {
+    max-width: 400px; /* Ancho máximo de la imagen */
+    height: auto; /* Altura ajustada automáticamente para mantener la proporción */
+    margin-right: 30px; /* Espacio entre la imagen y el texto */
+    margin-top: 50px; /* Mueve la imagen hacia abajo */
+    margin-left: 50px; /* Mueve la imagen hacia la derecha */
+
+}
+
+.texto {
+    font-size: 22px; /* Tamaño del texto */
+}
